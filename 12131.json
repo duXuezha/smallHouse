@@ -1,19 +1,4 @@
 {
-	"base": {
-		"user_id": "13346",
-		"geo_rect": [
-			109.115,
-			34.873,
-			109.846,
-			34.517
-		],
-		"min_blc": 10000000,
-		"max_blc": 5000,
-		"tiling_scheme": "google",
-		"pyramid_output_path": "",
-		"union_vector": false,
-		"gen_data_method": "multi"
-	},
 	"union_id": "000O8",
 	"bus_map_name": "交口抽渭",
 	"is_rebuild": false,
