@@ -14,3 +14,4 @@ git log [--pretty=oneline]   // 可查看版本更新记录[版本号]
 git reset --hard head^ // 回退前一个版本 Head表示当前版本号
 git reset --hard 版本号 // 回退特定版本号
 git reflog  // Git 记录你操作的每一次命令
+git diff head -- rest1.txt  // 把当前版本和更改后文件作比较
