@@ -1,0 +1,355 @@
+{
+	"base": {
+		"user_id": "13346",
+		"geo_rect": [
+			109.115,
+			34.873,
+			109.846,
+			34.517
+		],
+		"min_blc": 10000000,
+		"max_blc": 5000,
+		"tiling_scheme": "google",
+		"pyramid_output_path": "",
+		"union_vector": false,
+		"gen_data_method": "multi"
+	},
+	"union_id": "000O8",
+	"bus_map_name": "交口抽渭",
+	"is_rebuild": false,
+	"color_id": "0",
+	"layers": [
+		{
+			"grp_name": "河流",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NS"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000ON"
+		},
+		{
+			"grp_name": "排水沟",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000O7"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OW"
+		},
+		{
+			"grp_name": "渠道",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NY"
+				},
+				{
+					"task_code": "000NP"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OE"
+		},
+		{
+			"grp_name": "其他",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NT"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OO"
+		},
+		{
+			"grp_name": "桥梁",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NU"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OP"
+		},
+		{
+			"grp_name": "路涵",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NR"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OM"
+		},
+		{
+			"grp_name": "量水堰",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000O6"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OV"
+		},
+		{
+			"grp_name": "管理闸",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000O5"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OU"
+		},
+		{
+			"grp_name": "管理站",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NQ"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OL"
+		},
+		{
+			"grp_name": "渡槽",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NO"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OJ"
+		},
+		{
+			"grp_name": "道路",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000OQ"
+				},
+				{
+					"task_code": "000NV"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OI"
+		},
+		{
+			"grp_name": "遥测站",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NW"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OH"
+		},
+		{
+			"grp_name": "水闸",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NX"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OG"
+		},
+		{
+			"grp_name": "斗门",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NN"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OF"
+		},
+		{
+			"grp_name": "跌水",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NM"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OC"
+		},
+		{
+			"grp_name": "倒虹吸",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NL"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OB"
+		},
+		{
+			"grp_name": "抽水站",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000NK"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OA"
+		},
+		{
+			"grp_name": "排水站",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000MB"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000O9"
+		},
+		{
+			"grp_name": "政区",
+			"is_rebuild": false,
+			"layers": [
+				{
+					"task_code": "000OS"
+				},
+				{
+					"task_code": "000OR"
+				}
+			],
+			"color_id": "0",
+			"beg_layer": "13",
+			"end_layer": "2",
+			"clip_rect_left": "109.15",
+			"clip_rect_right": "109.82",
+			"clip_rect_top": "34.86",
+			"clip_rect_bottom": "34.50",
+			"grp_id": "000OT"
+		}
+	]
+}
