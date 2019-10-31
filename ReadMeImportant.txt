@@ -20,3 +20,5 @@ ls -al ~/.ssh  // 查看本地是否有ssh密钥文件
 ssh-keygen -t rsa -C "自己的@qq.com"  // 如果没有可以新建，会生成id_rsa和id_rsa.pub两个文件，之后复制id_rsa.pub(公钥)文件中内容到GitHub中
 git remote add origin(远程库名，可以自己起名字) git@github.com:GitHub用户名/learnGit.git //添加远程仓库
 git push [-u](第一次推送需要加) origin(远程库) master(本地分支) // 发布到自己的GitHub
+
+git clone git@github.com:duXueZha/design-resource.git // 往本地克隆
