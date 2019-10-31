@@ -22,3 +22,12 @@ git remote add origin(远程库名，可以自己起名字) git@github.com:GitHu
 git push [-u](第一次推送需要加) origin(远程库) master(本地分支) // 发布到自己的GitHub
 
 git clone git@github.com:duXueZha/design-resource.git // 往本地克隆
+
+git checkout -b dev(分支名)  // 新建分支dev，并切换到该分支
+git branch name // 新建分支dev
+git branch  // 查看分支
+git checkout master/dev   // 切换分支
+git pull origin(远程库) dev(本地库) // 拉取远程库到某分支
+git merge master // 当前为dev分支，该命令合并master到当前分支
+git reset --hard head // 如果 状态为(dev|MERGING), 退出该状态到head当前分支
+git branch -d dev  // 删除该分支
